@@ -1,4 +1,4 @@
-## Analysis Outcome of Home Sales Project
+## Home Sales Project
 
 **Objective Assessment:**
 The project successfully followed the outlined instructions to analyze home sales data using PySpark and SparkSQL. Key tasks included data loading, query execution, caching, and performance comparison, demonstrating proficiency in working with large datasets in a distributed computing environment.
