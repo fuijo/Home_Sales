@@ -3,6 +3,9 @@
 **Objective Assessment:**
 The project successfully followed the outlined instructions to analyze home sales data using PySpark and SparkSQL. Key tasks included data loading, query execution, caching, and performance comparison, demonstrating proficiency in working with large datasets in a distributed computing environment.
 
+![image](https://github.com/user-attachments/assets/3044b794-b935-4b5f-8ffd-ac075a8df532)
+
+
 **Data Preparation and Processing:**
 
 The dataset was imported from the provided AWS S3 bucket and read into a PySpark DataFrame.
@@ -17,13 +20,23 @@ Average Price of Four-Bedroom Houses Sold per Year:
 
 Successfully calculated and rounded to two decimal places.
 
+![image](https://github.com/user-attachments/assets/e9a9fafa-a019-48e0-9f50-d40deb0914fb)
+
+
 Results provided insights into pricing trends across different years.
 
 Average Price of Homes with Three Bedrooms and Three Bathrooms per Year Built:
 
+![image](https://github.com/user-attachments/assets/6e809af2-3665-4d96-8525-5967616e5698)
+
+
 Data extracted and analyzed to determine price fluctuations over time.
 
 Average Price of Homes with Specific Criteria (3 Beds, 3 Baths, 2 Floors, ≥2000 sq ft):
+
+
+![image](https://github.com/user-attachments/assets/08daae34-12db-4f10-b571-938c1392c8a7)
+
 
 Filtered dataset to meet specific housing criteria.
 
@@ -31,9 +44,15 @@ Results highlighted how structural attributes impact pricing trends.
 
 Average Price per "View" Rating (Homes ≥ $350,000):
 
+![image](https://github.com/user-attachments/assets/f45f96e9-0a0c-4793-9e52-2665c3387bb2)
+
+
 Computed and runtime recorded.
 
 Identified view ratings correlated with higher home prices.
+
+![image](https://github.com/user-attachments/assets/ce2a5061-dbbe-443a-8b7b-e93824e7d17c)
+
 
 **Performance Optimization and Caching:**
 
