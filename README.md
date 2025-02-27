@@ -51,7 +51,6 @@ Computed and runtime recorded.
 
 Identified view ratings correlated with higher home prices.
 
-![image](https://github.com/user-attachments/assets/ce2a5061-dbbe-443a-8b7b-e93824e7d17c)
 
 
 **Performance Optimization and Caching:**
